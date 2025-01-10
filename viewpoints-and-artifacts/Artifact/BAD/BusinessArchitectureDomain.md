@@ -1,4 +1,5 @@
 Business Architecture Domain for Hotel Management System
+
 Purpose
 Addresses the needs of users, planners, and business management.
 
