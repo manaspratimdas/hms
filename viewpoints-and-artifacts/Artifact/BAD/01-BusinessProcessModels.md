@@ -8,6 +8,6 @@ Guest selects a room and proceeds to booking.
 Guest enters personal and payment information.
 System confirms the booking and sends a confirmation email.
 
-![alt text](../BAD.png)
 
 
+![BAD](https://github.com/user-attachments/assets/be51f1a1-629b-4979-803f-21388458f3c0)
